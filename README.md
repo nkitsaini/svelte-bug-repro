@@ -10,4 +10,4 @@ Go to the URL where preview is running and use devtools/whatever to limit the ne
 
 
 Ref: [Video Demo](./repro.mkv)
-
+Issue: https://github.com/sveltejs/svelte/issues/8266
