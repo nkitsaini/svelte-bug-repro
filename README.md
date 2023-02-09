@@ -9,5 +9,5 @@ npm run preview
 Go to the URL where preview is running and use devtools/whatever to limit the network speed. Once the page starts loading and the input box is visible, edit the input box. After a while when page finishes loading, the input box will be automatically cleared.
 
 
-Ref: [Video Demo](./repro.mkv)
+Ref: [Video Demo](./repro.mkv)  
 Issue: https://github.com/sveltejs/svelte/issues/8266
